@@ -38,7 +38,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "relativePath": "linkedStorageAccount.json"
+          "uri":"https://raw.githubusercontent.com/Tjoep1975/AzureRmPipelineMarc-repo/master/CreateWebApp/linkedStorageAccount.json"
         },
         "parameters": {
           "storageAccountName": {
